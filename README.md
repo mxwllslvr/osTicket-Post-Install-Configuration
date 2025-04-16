@@ -7,7 +7,7 @@
 
 <h2>Video Demonstration</h2>
 <ul>
-    <li><a href="https://www.youtube.com">YouTube: How To Configure osTicket, post-installation</a></li>
+    <li><a href="https://www.youtube.com/watch?v=mbckqBHjLxM">YouTube: How To Configure osTicket, post-installation</a></li>
 </ul>
 
 <h2>Environments and Technologies Used</h2>
