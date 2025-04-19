@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-<p>This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.</p>
+<p>This tutorial outlines further details on the post-install configuration of the open-source help desk ticketing system osTicket.</p>
 
 <h2>Video Demonstration</h2>
 <ul>
@@ -34,23 +34,23 @@
 <h2>Configuration Steps</h2>
 
 <p>
-    <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Admin Panel"/>
+    <img src="https://i.imgur.com/W2YkPbI.jpeg" height="80%" width="80%" alt="osTicket Admin Panel"/>
 </p>
 <p>
-    After installing osTicket, log in to the Admin Panel using the credentials created during setup. Navigate to the "Manage" section to begin configuring user roles. Define permissions for Admin and Agent accounts to control access levels and capabilities within the system.
-</p>
-<br/>
-
-<p>
-    <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Departments Configuration"/>
-</p>
-<p>
-    Next, go to the "Agents" tab and select "Departments" to create organizational units such as IT, Customer Support, and Sales. Assign agents to their respective departments and set up teams for collaborative ticket handling. This ensures tickets are routed to the appropriate personnel.
+    After installing osTicket, log in to the Admin Panel using the credentials created during setup. Navigate to the "Agent" section to begin configuring user roles. Define permissions for Admin and Agent accounts to control access levels and capabilities within the system.
 </p>
 <br/>
 
 <p>
-    <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="SLA Configuration"/>
+    <img src="https://i.imgur.com/UFfnANu.jpeg" height="80%" width="80%" alt="Departments Configuration"/>
+</p>
+<p>
+    Next, select "Departments" to create organizational units such as IT, Customer Support, and Sales. Assign agents to their respective departments and set up teams for collaborative ticket handling. This ensures tickets are routed to the appropriate personnel.
+</p>
+<br/>
+
+<p>
+    <img src="https://i.imgur.com/HCwSMGx.jpeg" height="80%" width="80%" alt="SLA Configuration"/>
 </p>
 <p>
     In the "Manage" section, configure Service Level Agreements (SLAs) to define response and resolution times for tickets based on priority levels. For example, set a 1-hour response time for urgent tickets and a 24-hour resolution time for standard requests. Apply these SLAs to departments or specific ticket types as needed.
