@@ -18,7 +18,7 @@
 
 <h2>Operating Systems Used</h2>
 <ul>
-    <li>Windows 10 (21H2)</li>
+    <li>Windows 10</li>
 </ul>
 
 <h2>Post-Install Configuration Objectives</h2>
